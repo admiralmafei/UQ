@@ -1,12 +1,12 @@
 Pok ́emon: Gotta Find Them All!
 
 This is a minesweeper-like game, and it has the same method of testing victory, 
-that is, whether the flags are placed on all animal grids.
+that is whether these flags are placed on all pokemons grids.
 
 The file a1_without_bigfunsearch.py doesn't use the function big_fun_search() gave
 by designer, this function could explore the neigbhouring cells with no pokemon in
-surrounding direction.
+surrounding directions.
 
-The final version a1.py is written in order to satisfy this function.
+The final version a1.py was written in order to satisfy this function.
 
-Afterwards, you can check the completion of the function through test.py in the test folder。
+Afterwards, you can check the completion of the function through test.py in the test folder.
